@@ -12,3 +12,7 @@ eureka:
 
 app: 
   name: hah
+
+hh:
+ - aa
+ -bb
